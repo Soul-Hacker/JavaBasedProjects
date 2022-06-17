@@ -37,7 +37,42 @@ In the login page user has to provide there registered mail id and password and 
 
 #BlogPage
 
-After Successfull login user will be redirected to the blog page where all the blogs are present
+After Successfull login user will be redirected to the blog page where all the latest blogs are present according to the time of upload
+
+![Screenshot (137)](https://user-images.githubusercontent.com/67191552/174345686-18a15c76-397b-4732-8489-5207dd56dbfe.png)
+
+#BlogFilter
+
+User can filter the blog according to there need by selecting the given categories
+
+![Screenshot (140)](https://user-images.githubusercontent.com/67191552/174346043-c55815c4-6f51-44c0-82e3-4661df65dbd9.png)
+
+#BlogDetails
+
+User can read the entire blog by clicking on read more button and can see the details of the post like date of posting and the user who posted it.
+
+![Screenshot (142)](https://user-images.githubusercontent.com/67191552/174346549-b47c66f4-ec65-4314-8ce4-e09ddc631db8.png)
+
+#NewBlogPost
+
+If our user wants to create a new post then they can click on post button and fill the data and click on post.
+![Screenshot (143)](https://user-images.githubusercontent.com/67191552/174347537-ec93f1d7-607b-4a72-977f-0191c16a14f2.png)
+
+After clicking on post button they got a success message.
+![Screenshot (144)](https://user-images.githubusercontent.com/67191552/174347538-b12aac5c-0c63-47af-abb0-1ab96bcbc7f1.png)
+
+#LogOut
+
+If the user wants to LogOut they simply click on log out button it will logout the user and delete there sessions. And Redirect them to the login page
+
+![Screenshot (145)](https://user-images.githubusercontent.com/67191552/174347936-e49cc6ce-8006-4900-938c-fa18c39549d6.png)
+
+
+
+
+
+
+
 
 
 
